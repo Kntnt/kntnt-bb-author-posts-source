@@ -39,7 +39,9 @@ final class Plugin {
 	}
 
 	public function builder_loop_query_args( $args ) {
-		$args['author__in'] = [ get_the_author_meta( 'ID' ) ];
+		if ( 'kntnt-bb-author-posts-source' == $args['settings']->data_source ) {
+			$args['author__in'] = [ get_the_author_meta( 'ID' ) ];
+		}
 		return $args;
 	}
 
