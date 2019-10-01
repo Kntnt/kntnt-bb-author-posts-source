@@ -6,7 +6,7 @@
  * Plugin URI:        https://github.com/Kntnt/kntnt-bb-author-posts-source
  * GitHub Plugin URI: https://github.com/Kntnt/kntnt-bb-author-posts-source
  * Description:       Extends Beaver Builder's loop settings with a source that returns posts of the current post's author.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
  * License:           GPL-3.0+
