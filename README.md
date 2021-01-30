@@ -1,6 +1,6 @@
 # Kntnt Author's Posts Source for Beaver Builder
 
-git remote add origin https://github.com/Kntnt/kntnt-bb-author-posts-source.gitgit remote add origin https://github.com/Kntnt/kntnt-bb-author-posts-source.git
+TODO
 
 ## Description
 
